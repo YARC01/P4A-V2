@@ -1,0 +1,6 @@
+{
+  "name": "Pick4A - Quản Lý Thể Thao & Giải Đấu Chuyên Nghiệp",
+  "description": "Nền tảng quản lý câu lạc bộ, vận động viên, phân quyền đa cấp, bốc thăm chia bảng thông minh, bảo mật nhóm/quỹ và cập nhật kết quả giải đấu thời gian thực theo chuẩn quốc tế.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
